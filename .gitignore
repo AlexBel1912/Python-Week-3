@@ -1,0 +1,12 @@
+# Ignorare tutti i file di un tipo
+*.log
+*.csv
+**/.env
+config_env.txt
+boston.csv
+insurance.csv
+iris.csv
+iris_describe.csv
+Mappa-dei-pub-circoli-locali-in-Italia.csv
+wine.csv
+
